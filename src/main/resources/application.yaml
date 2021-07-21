@@ -1,0 +1,5 @@
+
+spring:
+  kafka:
+    group-id: takeaway
+    bootstrap-servers: localhost:39092,localhost:29092
